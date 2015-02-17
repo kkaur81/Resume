@@ -8,11 +8,11 @@ Resume for ADA Developers Academy
 *Bachelor of Arts in Society, Ethics, and Human Behavior; Minor in Human Rights
 ###**Technical Skills**
 ####*Roundcube e-Mail Client 
-*Identigo,& Fast Track Background Check Software
-*E-Verify Residency Status Checking Software
-*Pearson Vue Test Registration Software
-*ExamFX  Licensing Administration Software
-*Employee Recruiting Software
+-Identigo,& Fast Track Background Check Software
+-E-Verify Residency Status Checking Software
+-Pearson Vue Test Registration Software
+-ExamFX  Licensing Administration Software
+-Employee Recruiting Software
 
 ###**Past Work Experience**
 ####**Annik Technology Services, Bellevue, WA      	                        December 2014-Present
