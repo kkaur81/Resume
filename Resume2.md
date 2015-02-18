@@ -5,8 +5,8 @@ Resume for ADA Developers Academy
 ---
 ###**Education**
 ####**University of Washington**						**December 2014**
-*Bachelor of Arts in Society, Ethics, and Human Behavior; Minor in Human Rights
-###**Technical Skills**
+*Bachelor of Arts in Society, Ethics, and Human Behavior; Minor in Human Rights*
+####**Technical Skills**
 ####*Roundcube e-Mail Client 
 -Identigo,& Fast Track Background Check Software
 -E-Verify Residency Status Checking Software
@@ -15,8 +15,10 @@ Resume for ADA Developers Academy
 -Employee Recruiting Software
 
 ###**Past Work Experience**
-####**Annik Technology Services, Bellevue, WA      	                        December 2014-Present
+####**Annik Technology Services, Bellevue, WA      	                        December 2014-Present<br>
 Technical Recruiter**
+#####blah blah blah<br>
+ok ok ok <br>
 
 **Express Employment Professionals, Bellevue, WA		   March 2014-December 2014
 Staffing Consultant**
