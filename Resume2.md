@@ -1,4 +1,4 @@
-##Kamalpreet Kaur
+#Kamalpreet Kaur
 ######308 E. Republican St. #210 Seattle, WA 98102 | (206)261-3785 | kkaur81@uw.edu
 ---
 #####**Education**
@@ -13,7 +13,7 @@
 - ExamFX  Licensing Administration Software<br>
 - Employee Recruiting Software<br>
 
-**Past Work Experience**
+#####**Past Work Experience**<br>
 **Annik Technology Services, Bellevue, WA<br>
 December 2014-Present<br>
 Technical Recruiter**<br>
