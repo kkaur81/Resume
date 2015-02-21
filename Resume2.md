@@ -17,8 +17,12 @@
 **Annik Technology Services, Bellevue, WA<br>
 December 2014-Present<br>
 Technical Recruiter**<br>
-blah blah blah<br>
-ok ok ok <br>
+- Conduct full cycle recruiting for senior level positions at Microsoft and Hewlett-Packard.
+- Create and manage Annik's weekly newsletter for 300+ internal employees and potential candidates.
+- Work directly with executives, directors, managers, and hiring partners to surpass quaretly hiring goals.
+- Create and edit job descriptions and postings on a weekly basis.
+- Successfully complete onboarding procedures to meet local laws.
+- Manage benefits, negotiation processes, and compensation analysis.
 
 **Express Employment Professionals, Bellevue, WA<br>
 March 2014-December 2014<br>
