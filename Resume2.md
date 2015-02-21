@@ -18,6 +18,7 @@
 December 2014-Present<br>
 Technical Recruiter**<br>
 - Conduct full cycle recruiting for senior level positions at Microsoft and Hewlett-Packard.
+- Manage up to 11 internal and external jobs at a time.
 - Create and manage Annik's weekly newsletter for 300+ internal employees and potential candidates.
 - Work directly with executives, directors, managers, and hiring partners to surpass quaretly hiring goals.
 - Create and edit job descriptions and postings on a weekly basis.
